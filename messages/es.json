@@ -1,0 +1,388 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "hire": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Desarrollador Full-Stack creando productos web de alto rendimiento en la intersección entre código limpio y diseño reflexivo.",
+    "navHeading": "Navegación",
+    "contactHeading": "Ponte en contacto",
+    "contactBody": "¿Tienes un proyecto en mente o solo quieres saludar? Mi bandeja de entrada siempre está abierta.",
+    "copyright": "© 2024 Alex Rivera. Todos los derechos reservados.",
+    "builtWith": "Construido con Next.js 14, TypeScript y Tailwind CSS."
+  },
+  "hero": {
+    "badge": "Disponible para trabajar",
+    "code_caption": "Creando experiencias digitales",
+    "cta_primary": "Ver mi trabajo",
+    "cta_secondary": "Saludar",
+    "floating_badge": "Diseñador y Desarrollador",
+    "heading1": "Diseño y construyo",
+    "heading2": "productos digitales",
+    "heading3": "que importan",
+    "subtext": "Creando interfaces reflexivas y soluciones robustas para web y más allá."
+  },
+  "skills": {
+    "cta": "Hablemos",
+    "eyebrow": "Experiencia",
+    "heading": "Habilidades y herramientas",
+    "subtext": "Competente en diseño, desarrollo y todo lo que hay en medio."
+  },
+  "cta": {
+    "button_primary": "Ponte en contacto",
+    "eyebrow": "¿Listo para trabajar juntos?",
+    "heading": "Creemos algo extraordinario",
+    "subtext": "Siempre estoy abierto a nuevos proyectos y colaboraciones."
+  },
+  "about": {
+    "availability": "Disponible para roles freelance y tiempo completo",
+    "badge": "Abierto a oportunidades",
+    "bio1": "Soy diseñador y desarrollador creando experiencias digitales que combinan estética con funcionalidad.",
+    "bio2": "Especializado en diseño web moderno, interfaces interactivas y experiencias de usuario reflexivas en temas oscuros y claros.",
+    "ctaBtn": "Ponte en contacto",
+    "ctaEyebrow": "Trabajemos juntos",
+    "ctaHeading": "¿Listo para comenzar tu próximo proyecto?",
+    "ctaSecondary": "Ver mi trabajo",
+    "ctaSubtext": "Siempre me interesa conocer nuevas oportunidades y colaboraciones.",
+    "expEyebrow": "Experiencia",
+    "expHeading": "Un historial de impacto",
+    "eyebrow": "Acerca de mí",
+    "heading": "Diseñador y Desarrollador",
+    "skillsEyebrow": "Habilidades y Herramientas",
+    "skillsHeading": "Con qué trabajo",
+    "skillsSubtext": "Competente en diseño, desarrollo y tecnologías web modernas."
+  },
+  "contact": {
+    "availability": {
+      "body": "Generalmente respondo dentro de 24 horas.",
+      "status": "Disponible ahora",
+      "timezone": "EST"
+    },
+    "directEmail": {
+      "label": "Envíame un correo"
+    },
+    "eyebrow": "Ponte en contacto",
+    "footerStrip": {
+      "copy": "Creemos algo increíble juntos.",
+      "tagline": "¿Tienes un proyecto en mente?"
+    },
+    "form": {
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "errors": {
+        "emailInvalid": "Por favor, ingresa una dirección de correo válida.",
+        "emailRequired": "El correo es obligatorio.",
+        "messageRequired": "El mensaje es obligatorio.",
+        "messageTooShort": "El mensaje debe tener al menos 10 caracteres.",
+        "nameRequired": "El nombre es obligatorio.",
+        "nameTooShort": "El nombre debe tener al menos 2 caracteres.",
+        "subjectRequired": "El asunto es obligatorio."
+      },
+      "heading": "Envíame un mensaje",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "subheading": "Me encantaría saber de ti. Completa el formulario a continuación y te responderé pronto.",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "success": {
+        "again": "Enviar otro mensaje",
+        "body": "Gracias por comunicarte. Me pondré en contacto pronto.",
+        "heading": "¡Mensaje enviado!"
+      }
+    },
+    "heading": {
+      "accent": "Hablemos",
+      "line1": "¿Tienes un proyecto o pregunta?"
+    },
+    "responseNote": "Leo cada mensaje y me propongo responder dentro de 24 horas.",
+    "social": {
+      "heading": "O conéctate conmigo"
+    },
+    "subheading": "Ya sea que tengas un proyecto específico en mente o simplemente quieras charlar, estoy aquí para ayudarte."
+  },
+  "projects": {
+    "card": {
+      "featured": "Destacado",
+      "githubAriaLabel": "Ver código fuente en GitHub",
+      "imageAlt": "Vista previa del proyecto",
+      "source": "Fuente",
+      "visit": "Visitar",
+      "visitAriaLabel": "Visitar proyecto en vivo"
+    },
+    "cta": {
+      "button": "Iniciar un proyecto",
+      "github": "Explorar en GitHub",
+      "subtitle": "Mira en qué he estado trabajando últimamente.",
+      "title": "Trabajo seleccionado"
+    },
+    "empty": "No se encontraron proyectos.",
+    "eyebrow": "Portafolio",
+    "filter": {
+      "all": "Todos",
+      "ariaLabel": "Filtrar proyectos por categoría",
+      "design": "Diseño",
+      "oss": "Código abierto",
+      "web": "Web"
+    },
+    "heading": "Proyectos",
+    "hero": {
+      "eyebrow": "Mi trabajo",
+      "subtitle": "Una selección de proyectos recientes que muestran diseño y desarrollo.",
+      "title": "Proyectos destacados"
+    },
+    "view_all": "Ver todos los proyectos",
+    "view_case_study": "Leer caso de estudio"
+  },
+  "services": {
+    "eyebrow": "Lo que ofrezco",
+    "heading": "Servicios",
+    "subtext": "Ayudo a marcas y startups a diseñar y desarrollar experiencias digitales modernas."
+  },
+  "testimonials": {
+    "eyebrow": "Prueba social",
+    "heading": "Qué dicen otros"
+  },
+  "featured-projects": [
+    {
+      "title": "Orbit",
+      "description": "A real-time project management SaaS built with Next.js, Supabase, and Tailwind CSS. Reduced team task-switching by 40% in beta.",
+      "tags": "TypeScript, Next.js, Supabase, Tailwind CSS"
+    },
+    {
+      "title": "Luminary UI",
+      "description": "An open-source component library for dark-mode-first React apps, with 60+ accessible components and 2k+ GitHub stars.",
+      "tags": "React, Radix UI, Storybook, Rollup"
+    },
+    {
+      "title": "Pulse Analytics",
+      "description": "A lightweight, privacy-first web analytics dashboard that replaces Google Analytics with zero cookies.",
+      "tags": "Node.js, PostgreSQL, Chart.js, Docker"
+    },
+    {
+      "title": "CodeCast",
+      "description": "A live collaborative code editor with video chat, syntax highlighting for 30+ languages, and one-click deployment previews.",
+      "tags": "WebRTC, Monaco Editor, Redis, Vercel"
+    }
+  ],
+  "intro": [
+    "Based in San Francisco, CA — open to remote worldwide",
+    "6+ years building production-grade web applications",
+    "Obsessed with the intersection of design systems and developer experience",
+    "Former contributor to open-source tooling with 2k+ GitHub stars"
+  ],
+  "experience": [
+    {
+      "role": "Senior Full-Stack Engineer",
+      "company": "Vercel",
+      "period": "2022–Present",
+      "description": "Led the development of a real-time deployment analytics dashboard used by 40,000+ teams. Architected a React/Next.js front-end with a Rust-backed API layer, reducing p95 load times by 62%."
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Linear",
+      "period": "2020–2022",
+      "description": "Built core features of the issue-tracking interface including keyboard-first navigation, bulk actions, and a custom rich-text editor. Collaborated directly with design to establish the component library used across the entire product."
+    },
+    {
+      "role": "Frontend Engineer",
+      "company": "Stripe",
+      "period": "2018–2020",
+      "description": "Developed and maintained the Stripe Dashboard's reporting module, handling billions of dollars in transaction data. Introduced accessibility improvements that brought the module to WCAG AA compliance."
+    },
+    {
+      "role": "Junior Developer",
+      "company": "Freelance & Agency",
+      "period": "2017–2018",
+      "description": "Delivered 15+ client websites and web apps across e-commerce, SaaS, and media verticals. Gained rapid exposure to full project lifecycles from discovery through deployment."
+    }
+  ],
+  "skills-detailed": [
+    {
+      "category": "Languages",
+      "items": "TypeScript, JavaScript (ES2024), Python, Rust (learning), SQL"
+    },
+    {
+      "category": "Frontend",
+      "items": "React 18, Next.js 14 (App Router), Tailwind CSS, Framer Motion, Radix UI"
+    },
+    {
+      "category": "Backend",
+      "items": "Node.js, Express, tRPC, GraphQL, REST API design, Prisma ORM"
+    },
+    {
+      "category": "Databases",
+      "items": "PostgreSQL, PlanetScale (MySQL), Redis, Supabase, MongoDB"
+    },
+    {
+      "category": "Infrastructure & DevOps",
+      "items": "Vercel, AWS (EC2, S3, Lambda), Docker, GitHub Actions CI/CD"
+    },
+    {
+      "category": "Design & Prototyping",
+      "items": "Figma, Storybook, design tokens, component-driven development"
+    },
+    {
+      "category": "Testing",
+      "items": "Vitest, Playwright, React Testing Library, Cypress E2E"
+    },
+    {
+      "category": "Soft Skills",
+      "items": "Technical writing, async-first communication, mentoring junior engineers, sprint planning"
+    }
+  ],
+  "projects-grid": [
+    {
+      "title": "Luminary",
+      "description": "AI-powered content scheduling platform. Built with Next.js 14, OpenAI API, and PostgreSQL. Reduced content team's weekly planning time by 60%.",
+      "tags": "Next.js, TypeScript, OpenAI, Tailwind CSS, Prisma",
+      "image": "/images/luminary-ai-content-scheduling.jpg"
+    },
+    {
+      "title": "Vaultex",
+      "description": "End-to-end encrypted personal finance tracker. Designed and engineered the full stack using React, Node.js, and AES-256 encryption. 4,000+ active users at launch.",
+      "tags": "React, Node.js, Express, MongoDB, Encryption",
+      "image": "/images/vaultex-finance-tracker-dashboard.jpg"
+    },
+    {
+      "title": "Orbitly",
+      "description": "Real-time team collaboration dashboard with live cursors and presence indicators. Powered by WebSockets and Redis pub/sub.",
+      "tags": "WebSockets, Redis, React, TypeScript, Figma",
+      "image": "/images/orbitly-collaboration-dashboard.jpg"
+    },
+    {
+      "title": "Spectral UI",
+      "description": "Open-source dark-mode component library for React. 1,200+ GitHub stars, 80+ components, fully accessible and WCAG-AA compliant.",
+      "tags": "React, Storybook, Radix UI, TypeScript, CSS",
+      "image": "/images/spectral-ui-component-library.jpg"
+    },
+    {
+      "title": "Driftlog",
+      "description": "Minimalist travel journaling app with offline-first architecture and map-based entry visualization.",
+      "tags": "React Native, SQLite, MapBox, Expo, TypeScript",
+      "image": "/images/driftlog-travel-journal-app.jpg"
+    },
+    {
+      "title": "Nexus API Gateway",
+      "description": "High-performance API gateway with rate limiting, JWT auth, and analytics dashboard. Handles 2M+ requests/day in production.",
+      "tags": "Node.js, Redis, Docker, PostgreSQL, Kubernetes",
+      "image": "/images/nexus-api-gateway-dashboard.jpg"
+    },
+    {
+      "title": "Palette Studio",
+      "description": "Browser-based design tool for generating and exporting accessible color systems. Used by 500+ designers.",
+      "tags": "Vanilla JS, Canvas API, WCAG, CSS, Netlify",
+      "image": "/images/palette-studio-color-tool.jpg"
+    },
+    {
+      "title": "Chronoboard",
+      "description": "Kanban-style project tracker with time-tracking, burndown charts, and Slack integration.",
+      "tags": "Vue 3, Pinia, Chart.js, REST API, Tailwind CSS",
+      "image": "/images/chronoboard-kanban-tracker.jpg"
+    }
+  ],
+  "project-details": [
+    {
+      "label": "Problem",
+      "detail": "Content teams were spending 5–8 hours per week manually planning and scheduling posts across multiple platforms with no unified view."
+    },
+    {
+      "label": "Solution",
+      "detail": "A unified AI-assisted calendar that ingests brand guidelines, past performance data, and audience insights to suggest optimal posting schedules."
+    },
+    {
+      "label": "My Role",
+      "detail": "Solo founder-engineer for the first 6 months: product strategy, full-stack development, UI/UX design, and user research."
+    },
+    {
+      "label": "Tech Stack",
+      "detail": "Next.js 14 App Router, TypeScript, Prisma, PostgreSQL, Redis, BullMQ, OpenAI GPT-4o, Tailwind CSS, Vercel."
+    },
+    {
+      "label": "Outcome",
+      "detail": "60% reduction in weekly planning time reported by beta users; 94% of AI-suggested schedules accepted without modification after onboarding."
+    },
+    {
+      "label": "Key Learning",
+      "detail": "Streaming AI responses with the Vercel AI SDK dramatically improved perceived performance and user trust compared to waiting for full completions."
+    }
+  ],
+  "contact-form": [
+    {
+      "label": "Full Name",
+      "placeholder": "Your first and last name",
+      "name": "name"
+    },
+    {
+      "label": "Email Address",
+      "placeholder": "Where you'd like my reply sent",
+      "name": "email"
+    },
+    {
+      "label": "Subject",
+      "placeholder": "e.g. Freelance project inquiry or Job opportunity",
+      "name": "subject"
+    },
+    {
+      "label": "Message",
+      "placeholder": "Tell me about your project, timeline, budget, or anything else that's relevant. No detail is too small.",
+      "name": "message"
+    }
+  ],
+  "social-links": [
+    {
+      "platform": "GitHub",
+      "handle": "github.com/alexmorgan",
+      "url": "https://github.com/alexmorgandev",
+      "description": "Open-source projects, code experiments, and contributions to the community"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "linkedin.com/in/alexmorgandev",
+      "url": "https://linkedin.com/in/alexmorgandev",
+      "description": "Professional background, recommendations, and career updates"
+    },
+    {
+      "platform": "Twitter / X",
+      "handle": "@alexmorgandev",
+      "url": "https://twitter.com/alexmorgandev",
+      "description": "Thoughts on software, design, and the web platform"
+    },
+    {
+      "platform": "Dribbble",
+      "handle": "dribbble.com/alexmorgan",
+      "url": "https://dribbble.com/alexmorgan",
+      "description": "Visual work, UI explorations, and design system previews"
+    },
+    {
+      "platform": "Read.cv",
+      "handle": "read.cv/alexmorgan",
+      "url": "https://read.cv/alexmorgan",
+      "description": "A living résumé with selected work and timeline"
+    }
+  ],
+  "footer-links": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Projects",
+      "href": "/projects"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ]
+}
